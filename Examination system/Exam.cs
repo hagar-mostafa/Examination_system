@@ -4,7 +4,6 @@ using System.Text;
 #nullable disable
 namespace Examination_system
 {
-
     public abstract class Exam
     {
         public int Time { get; set; }
