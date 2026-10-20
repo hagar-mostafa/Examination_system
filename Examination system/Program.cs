@@ -26,7 +26,6 @@ namespace Examination_system
             else
                 Console.WriteLine("Thank you ");
 
-
         }
     }
 }
