@@ -9,7 +9,7 @@ namespace Examination_system
         public int AnswerId { get; set; }
         public string AnswerText { get; set; }
 
-       public Answers() { } // when i make object in mcq class i don't need to put 2 prameters so i do this prameterless constructor
+      public Answers() { } // when i make object in mcq class i don't need to put 2 prameters so i do this prameterless constructor
         public Answers(int Id, string Text)
         {
             AnswerId = Id;
