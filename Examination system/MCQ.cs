@@ -35,6 +35,7 @@ class MCQ : Questions
         // Set choices
         Console.WriteLine("Choices of Questions :");
         for (int i = 0; i < OptionsCount; i++)
+
         {
             Console.Write($"Please enter choice number {i + 1}: ");
             string text = Console.ReadLine();
