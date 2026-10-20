@@ -7,6 +7,7 @@ namespace Examination_system
     // Remeber practical exam contain MCQ only
     class PracticalExam : Exam
     {
+
         public Questions[] Questions { get; set; }
         public Answers[] Answer { get; set; }
         public PracticalExam() { }
