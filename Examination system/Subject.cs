@@ -4,7 +4,6 @@ using System.Text;
 #nullable disable
 namespace Examination_system
 {
-
     class Subject
     {
         public int SubjectId { get; set; }
